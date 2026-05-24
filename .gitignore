@@ -1,0 +1,11 @@
+#dependencies
+node_modules/
+
+#output folder
+dist/
+
+#environment variables
+.env
+
+#implementation guide for me
+IMPLEMENTATION_GUIDE.md

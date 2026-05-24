@@ -1,0 +1,2 @@
+// Infrastructure monitoring placeholder
+export {};

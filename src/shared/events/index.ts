@@ -1,0 +1,2 @@
+// Shared events placeholder
+export {};

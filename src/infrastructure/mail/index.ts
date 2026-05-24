@@ -1,0 +1,2 @@
+// Infrastructure mail placeholder
+export {};

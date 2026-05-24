@@ -1,0 +1,2 @@
+// Infrastructure cache placeholder
+export {};
